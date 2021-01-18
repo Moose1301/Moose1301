@@ -16,6 +16,7 @@
 <br />
 <br />
 
+[![time tracker](https://wakatime.com/badge/github/Moose1301/Moose1301.svg)](https://wakatime.com/badge/github/Moose1301/Moose1301)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moose1301&layout=compact)
 
