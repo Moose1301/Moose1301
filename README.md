@@ -42,7 +42,7 @@ GitHub Stats
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
