@@ -42,7 +42,7 @@ GitHub Stats
 
 
 <details>
-  <summary>⚡ GitHub Stats</summary>
+  <summary>⚡ More GitHub Stats</summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
