@@ -40,10 +40,13 @@ GitHub Stats
 <code><img height="40" src="https://aeroclient.net/favicon.ico"></code>
 <code><img height="40" src="https://cdn.tebex.io/webstore/817371/images/817371-d51d2a566acb7f1d348ce6893862038a8cccbb17.jpg"></code>
 
-### More Info
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
+</details>
 
 
