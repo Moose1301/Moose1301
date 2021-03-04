@@ -41,7 +41,7 @@ GitHub Stats
 **What i'm working on**
 
 <code><img height="40" src="https://cdn.tebex.io/webstore/817371/images/817371-d51d2a566acb7f1d348ce6893862038a8cccbb17.jpg"></code>
-<code><img height="40" src="https://cavepvp.org/styles/default/xenforo/cavelogonew.png"></code>
+<code><img height="40" src="https://cdn.tebex.io/webstore/701883/images/701883-447b00eb2036a74250092a84d5c1fac4883fd0b0.png"></code>
 
 
 <details>
