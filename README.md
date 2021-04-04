@@ -48,19 +48,19 @@ GitHub Stats
   <summary>⚡ More GitHub Stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 57 Contributions in the Year 2021
  > 
-> 📦 1.1 MB Used in Github's Storage 
+> 📦 1.2 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 22 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -104,11 +104,11 @@ VS Code                  53 mins             ░░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     40 repos            ██████████████████░░░░░░░   72.73% 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-AutoHotkey               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+Java                     41 repos            ██████████████████░░░░░░░   73.21% 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+AutoHotkey               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 ```
 
