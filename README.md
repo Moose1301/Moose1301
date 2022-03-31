@@ -17,7 +17,9 @@
 <br />
 <br />
 
+
 [![total time](https://wakatime.com/badge/user/cfc262a8-2f26-47fb-a540-4c1ca4b4ddf8.svg)](https://wakatime.com/@cfc262a8-2f26-47fb-a540-4c1ca4b4ddf8)
+
 [![time tracker](https://wakatime.com/badge/github/Moose1301/Moose1301.svg)](https://wakatime.com/badge/github/Moose1301/Moose1301)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moose1301&layout=compact)
