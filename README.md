@@ -46,8 +46,6 @@ GitHub Stats
   <summary>⚡ More GitHub Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%2027%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 447 Contributions in the Year 2022
@@ -112,7 +110,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2022 02:03:18 UTC
+ Last Updated on 20/04/2022 06:30:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
