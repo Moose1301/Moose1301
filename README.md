@@ -34,7 +34,6 @@ GitHub Stats
 
 ### Connect with me:
 
-<img align="left" alt="web.moose1301.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="https://twitter.com/Moose1301 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <br />
 <br />
