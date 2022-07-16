@@ -25,8 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moose1301&layout=compact)
 
-![Moose1301's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moose1301)
-
 GitHub Stats
 <br />
 
