@@ -28,7 +28,7 @@
 GitHub Stats
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Moose1301&show_icons=true&theme=merko" alt="Moose1301" />
+<img src="https://github-readme-stats.vercel.app/api?username=Moose1301&show_icons=true&theme=merko&count_private=true" alt="Moose1301" />
 
 
 
