@@ -45,12 +45,10 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java              3 hrs 48 mins   █████████████████████▒░░░   85.90 %
-protobuf          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Protocol Buffer   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Python            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-textmate          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-IDEA_MODULE       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Java              1 hr 53 mins    ██████████████████▓░░░░░░   74.40 %
+Protocol Buffer   28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+protobuf          10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
