@@ -45,10 +45,9 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java              1 hr 53 mins    ██████████████████▓░░░░░░   74.40 %
-Protocol Buffer   28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-protobuf          10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Java              1 hr 29 mins    ████████████████████▓░░░░   82.23 %
+Protocol Buffer   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
