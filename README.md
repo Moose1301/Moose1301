@@ -45,12 +45,12 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java             30 hrs 25 mins  ████████████████████▓░░░░   82.23 %
-Properties       3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Markdown         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-textmate         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-GitIgnore file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Java             29 hrs          ████████████████████▒░░░░   81.05 %
+Properties       3 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Markdown         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+textmate         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JSON             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+GitIgnore file   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
