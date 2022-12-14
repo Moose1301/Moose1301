@@ -45,12 +45,12 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java             18 hrs 5 mins   ████████████████▓░░░░░░░░   67.23 %
-TypeScript       3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-JavaScript       2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-JSON             1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Vue.js           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-textmate         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Java             16 hrs 8 mins   ███████████████▒░░░░░░░░░   61.63 %
+TypeScript       3 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+JavaScript       2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+JSON             2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Vue.js           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+textmate         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
