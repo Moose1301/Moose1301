@@ -45,10 +45,9 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java             41 hrs 49 mins  █████████████████████▒░░░   84.85 %
-Kotlin           4 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Gradle           47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Other            37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Java             43 hrs 40 mins  █████████████████████▒░░░   85.36 %
+Kotlin           3 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Other            1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
