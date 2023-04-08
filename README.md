@@ -45,8 +45,7 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```text
-JSON   12 mins         ██████████████████░░░░░░░   72.28 %
-Java   4 mins          ███████░░░░░░░░░░░░░░░░░░   27.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
