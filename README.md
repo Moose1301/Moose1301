@@ -45,11 +45,11 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       14 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.22 %
-Java             11 hrs 32 mins  █████████░░░░░░░░░░░░░░░░   36.30 %
-Svelte           1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Properties       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other            37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Java             16 hrs 21 mins  ████████████░░░░░░░░░░░░░   48.45 %
+TypeScript       12 hrs 25 mins  █████████▒░░░░░░░░░░░░░░░   36.78 %
+Svelte           1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Properties       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+YAML             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
