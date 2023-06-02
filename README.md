@@ -44,7 +44,7 @@ GitHub Stats
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Java                  37 hrs 48 mins  ████████████████████▒░░░░   81.90 %
 XML                   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 TypeScript            1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
