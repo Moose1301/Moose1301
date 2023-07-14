@@ -45,10 +45,7 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java             42 mins         █████████████████████████   99.71 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
