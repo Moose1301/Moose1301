@@ -45,11 +45,11 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  20 hrs 33 mins  ████████████████████░░░░░   80.28 %
-JSON                  1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Lua                   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-YAML                  40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Mixin Configuration   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Java                  21 hrs 58 mins  █████████████████████▓░░░   87.21 %
+JSON                  1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+YAML                  40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Mixin Configuration   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+textmate              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
