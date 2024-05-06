@@ -45,11 +45,11 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java              36 hrs 57 mins  ████████████████▓░░░░░░░░   67.19 %
-JavaScript        6 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-JSON              4 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-TypeScript        2 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Kotlin            1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Java              36 hrs 15 mins  ██████████████████░░░░░░░   72.52 %
+JavaScript        4 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+JSON              3 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+TypeScript        2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+XML               1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
