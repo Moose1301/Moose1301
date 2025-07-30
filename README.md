@@ -45,11 +45,11 @@ GitHub Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java              32 hrs 53 mins  ███████████████████████░░   91.68 %
-Properties        32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Java Properties   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-JavaScript        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-XML               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Java              33 hrs 49 mins  ██████████████████████▒░░   89.10 %
+Java Properties   59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Properties        43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+YAML              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Kotlin            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
