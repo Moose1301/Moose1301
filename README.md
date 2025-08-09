@@ -37,7 +37,7 @@ GitHub Stats
 <img align="left" alt="https://twitter.com/Moose1301 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <br />
 <br />
-
+![My Public Key](https://gist.github.com/Moose1301/5221d3e36851f17c5d83c78f0133f213)
 
 <details>
   <summary>⚡ More GitHub Stats</summary>
