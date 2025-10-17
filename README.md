@@ -39,21 +39,4 @@ GitHub Stats
 <br />
 
 ![My Public Key](https://gist.github.com/Moose1301/5221d3e36851f17c5d83c78f0133f213)
-
-<details>
-  <summary>⚡ More GitHub Stats</summary>
-
-<!--START_SECTION:waka-->
-
-```txt
-Java             6 hrs 38 mins   █████████████████████▒░░░   84.91 %
-TypeScript       28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-XML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JSON             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JavaScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-```
-
-<!--END_SECTION:waka-->
-
-</details>
  
