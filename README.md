@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Contact Me
+
+- Discord: Moose1301
+- Twitter: [@Moose1301](https://twitter.com/Moose1301)
+
 
 ### Languages and Tools:
 
