@@ -29,16 +29,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moose1301&layout=compact&theme=merko)
 
-GitHub Stats
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Moose1301&show_icons=true&theme=merko&count_private=true" alt="Moose1301" />
-
-
-
 ### Connect with me:
 
 <img align="left" alt="https://twitter.com/Moose1301 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Moose1301 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 <br />
 <br />
 
